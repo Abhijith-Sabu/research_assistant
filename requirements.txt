@@ -1,5 +1,5 @@
 langchain
-langchain-communitystreamlit
+streamlit
 smolagents
 python-dotenv
 langchain-core
