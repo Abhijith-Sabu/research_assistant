@@ -7,3 +7,4 @@ pydantic
 fpdf
 langchain_core
 duckduckgo-search
+wikipedia-api
